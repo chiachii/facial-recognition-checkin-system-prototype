@@ -1,0 +1,8 @@
+PATH:
+  DATASET_DIR: 'dataset/lfw/lfw-deepfunneled/'
+  PKL_PATH: 'dataset/face_db.pkl'
+
+INFO:
+  PICTURE_PROMPT: 'This web app recognitzes face in a image. To use it, simply press upload and select your picture.'
+  WEBCAM_PROMPT: 'This web app recognitzes face in a live video stream. To use it, simply press start and allow access to your webcam.'
+  THRESHOLD_PROMPT: 'The lower the threshold, the more strict the face recognition; conversely, the higher the threshold, the more loose the face recognition.'
